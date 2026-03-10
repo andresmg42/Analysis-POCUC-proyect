@@ -1,0 +1,8 @@
+POCUCDB:
+  
+  drivername: mysql+pymysql
+  host: localhost        
+  port: 3306             
+  user: andresuv             
+  password: pocucdb
+  dbname: pocucdb   

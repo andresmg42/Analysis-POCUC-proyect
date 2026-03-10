@@ -1,0 +1,148 @@
+id,code,question_type,description,parent_question_id,subcategory_id,is_required,position
+1,A,unique_response,"¿Número de personas aproximado, que se observaron fumando, en el periodo de dos horas?",,1,1,1.0
+3,B.2,matrix_child,Hombre,2.0,1,1,2.0
+4,B.1,matrix_child,Mujer,2.0,1,1,1.0
+6,C.1,matrix_child,Mestizos,5.0,1,1,1.0
+7,C.2,matrix_child,Indígena,5.0,1,1,2.0
+8,C.3,matrix_child,Afrodecendiente,5.0,1,1,3.0
+10,D.1,matrix_child,Adolescente (12-18 años),9.0,1,1,1.0
+11,D.2,matrix_child,Joven(14-26 años),9.0,1,1,2.0
+12,D.3,matrix_child,Adulto (27-59 años),9.0,1,1,3.0
+13,D.4,matrix_child,Adulto Mayor (> 60 años),9.0,1,1,4.0
+15,E.1,matrix_child,Cigarrillo Tradicional,14.0,1,1,1.0
+16,E.2,matrix_child,Vapeador,14.0,1,1,2.0
+18,F.1,matrix_child,Lo traía consigo,17.0,1,0,1.0
+19,F.2,matrix_child,Cercano,17.0,1,0,2.0
+21,F.3,matrix_child,Compro en un lugar de venta,17.0,1,0,3.0
+23,G.1,matrix_child,Lo traía consigo,22.0,1,0,1.0
+24,G.2,matrix_child,Cercano,22.0,1,0,2.0
+25,G.3,matrix_child,Se lo ofreció un acompañante,22.0,1,0,3.0
+26,G.4,matrix_child,Compro en un lugar de venta,22.0,1,0,4.0
+28,H.1,matrix_child,Lo traía consigo,27.0,1,0,1.0
+29,H.2,matrix_child,Cercano,27.0,1,0,2.0
+30,H.3,matrix_child,Se lo ofreció un acompañante,27.0,1,0,3.0
+31,H.4,matrix_child,Compro en un lugar de venta,27.0,1,0,4.0
+32,B.3,matrix_child,Expresión predominantemente masculina.,2.0,1,1,3.0
+33,B.4,matrix_child,Expresión mixta/no definida,2.0,1,1,4.0
+34,B.5,matrix_child,Indeterminada,2.0,1,1,5.0
+35,E.3,matrix_child,Marihuana,14.0,1,1,3.0
+36,F.4,matrix_child,Se lo ofreció un acompañante,17.0,1,0,4.0
+39,I.1,matrix_child,Bebidas alcohólicas,38.0,1,0,1.0
+40,I.2,matrix_child,Cerveza,38.0,1,0,2.0
+41,I.3,matrix_child,Licor,38.0,1,0,3.0
+43,J.1,matrix_child,Gaseosa-bebidas azucaradas,42.0,1,0,1.0
+44,J.2,matrix_child,Jugo natural,42.0,1,0,2.0
+45,J.3,matrix_child,Café,42.0,1,0,3.0
+46,J.4,matrix_child,Agua,42.0,1,0,4.0
+48,K.1,matrix_child,Empaquetados,47.0,1,0,1.0
+49,k.2,matrix_child,Frituras,47.0,1,0,2.0
+50,k.3,matrix_child,Dulces (solidos),47.0,1,0,3.0
+51,k.4,matrix_child,Proteína,47.0,1,0,4.0
+53,L.1,matrix_child,Manipulando un computador,52.0,1,0,1.0
+54,L.2,matrix_child,Manipulando un celular,52.0,1,0,2.0
+55,L.3,matrix_child,"Manipulando  un cuaderno, libro, hojas",52.0,1,0,3.0
+56,L.4,matrix_child,Hablando con otras personas,52.0,1,0,4.0
+57,M,unique_response,"¿Ante el acto de fumar, se observan personas que reclaman y rechazan tal conducta? ¿Cuántas?",,1,0,13.0
+59,N.1,matrix_child,Se aleja de las personas que reclaman,58.0,1,0,1.0
+60,N.2,matrix_child,Responde de forma asertiva,58.0,1,0,2.0
+61,N.3,matrix_child,Responde con agresión verbal,58.0,1,0,3.0
+62,N.4,matrix_child,Responde con agresión física,58.0,1,0,4.0
+64,Ñ.1,matrix_child,Lo depositan en canecas para la basura,63.0,1,0,1.0
+65,Ñ.2,matrix_child,Lo tiran al piso,63.0,1,0,2.0
+66,Ñ.3,matrix_child,Lo dejan sobre una superficie,63.0,1,0,3.0
+69,II.1,matrix_child,Bebidas alcohólicas,68.0,1,0,1.0
+70,II.2,matrix_child,Cerveza,68.0,1,0,2.0
+71,II.3,matrix_child,Licor,68.0,1,0,3.0
+74,III.1,matrix_child,Bebidas alcohólicas,73.0,1,0,1.0
+75,III.2,matrix_child,Cerveza,73.0,1,0,2.0
+76,III.3,matrix_child,Licor,73.0,1,0,3.0
+78,O,unique_response,"¿Cuántas personas no
+fumadoras hay en un radio de 2
+metros alrededor de las personas
+que están fumando?",,2,0,16.0
+79,P,unique_response,"¿Ante el acto de fumar, se observan fumadores pasivos que reclaman y rechazan  tal conducta?",,2,0,17.0
+81,Q.1,matrix_child,Se alejan del fumador,80.0,2,0,1.0
+82,Q.2,matrix_child,Reclamo asertivo,80.0,2,0,2.0
+83,Q.3,matrix_child,Reclaman con agresión verbal,80.0,2,0,3.0
+84,Q.4,matrix_child,Reclaman con agresión física,80.0,2,0,4.0
+85,Q.5,matrix_child,Permanecen en el espacio sin hacer otro reclamo,80.0,2,0,5.0
+87,R.1,matrix_child,Adolescente,86.0,2,0,1.0
+88,R.2,matrix_child,Joven,86.0,2,0,2.0
+89,R.3,matrix_child,Adulto,86.0,2,0,3.0
+90,R.4,matrix_child,Adulto Mayor,86.0,2,0,4.0
+93,S.1,matrix_child,Adolescente,92.0,2,0,1.0
+94,S.2,matrix_child,Joven,92.0,2,0,2.0
+95,S.3,matrix_child,Adulto,92.0,2,0,3.0
+96,S.4,matrix_child,Adulto Mayor,92.0,2,0,4.0
+97,T,unique_response,Hay en el sitio mujeres embarazadas ¿cuántas?,,2,1,20.0
+98,U,unique_response,"¿Hay niños en el lugar que se está observando?, ¿cuántos?.",,2,1,22.0
+100,A.1,matrix_child,cigarrillos,99.0,3,1,1.0
+101,A.2,matrix_child,Marihuana,99.0,3,1,2.0
+102,A.3,matrix_child,Vapeadores,99.0,3,1,3.0
+104,B.1,matrix_child,Cigarrillo,103.0,3,1,1.0
+105,B.2,matrix_child,Marihuana,103.0,3,1,2.0
+106,B.3,matrix_child,Vapeador,103.0,3,1,3.0
+108,C.1,matrix_child,Por unidad,107.0,3,0,1.0
+109,C.2,matrix_child,Menudeo,107.0,3,0,2.0
+110,C.3,matrix_child,Por Cajetillas,107.0,3,0,3.0
+112,D.1,matrix_child,Cigarrillos,111.0,3,1,1.0
+113,D.2,matrix_child,Marihuana,111.0,3,1,2.0
+114,D.3,matrix_child,Vapeadores,111.0,3,1,3.0
+117,E.1,matrix_child,A primera vista en una fila,116.0,4,1,1.0
+118,A.2,matrix_child,Debajo de otros productos,116.0,4,1,2.0
+119,E.2,matrix_child,Debajo de otros productos,116.0,4,1,2.0
+120,E.3,matrix_child,Junto a los dulces,116.0,4,1,5.0
+122,F.1,matrix_child,Cafetería,121.0,4,1,1.0
+123,F.2,matrix_child,Pasillo,121.0,4,1,2.0
+124,F.3,matrix_child,Mesas de reunión,121.0,4,1,3.0
+125,F.4,matrix_child,Zona verde,121.0,4,1,4.0
+135,G.1,matrix_child,Visibles,134.0,4,0,1.0
+136,G.2,matrix_child,Ocultos,134.0,4,0,3.0
+137,G.3,matrix_child,Escritos a mano,134.0,4,0,3.0
+138,G.4,matrix_child,Impresos,134.0,4,0,4.0
+139,G.5,matrix_child,Con colores llamativos,134.0,4,0,5.0
+140,G.6,matrix_child,A blanco y negro,134.0,4,0,5.0
+141,H,unique_response,¿Cuantos avisos se observan en la zona de concurrencia destinada?,,4,1,8.0
+143,I.1,matrix_child,Pequeño (1cm-50cm),142.0,4,0,1.0
+144,I.2,matrix_child,Mediano (50cm-1m),142.0,4,0,4.0
+145,I.3,matrix_child,Grande (mas de 1m),142.0,4,0,3.0
+146,J,unique_response,Se observan fumadores activos alrededor de estos avisos. ¿Cuántos?,,4,0,10.0
+148,A.1,matrix_child,Cafetería,147.0,5,1,1.0
+149,A.2,matrix_child,Zona verde,147.0,5,1,2.0
+151,A.3,matrix_child,Pasillo,147.0,5,1,3.0
+152,A.4,matrix_child,Baños,147.0,5,1,4.0
+153,A.5,matrix_child,Mesas de reunión,147.0,5,1,5.0
+154,B,unique_response,"¿A qué distancia aproximada, el observador percibe el humo?",,5,0,2.0
+156,C.1,matrix_child,Piso,155.0,5,0,1.0
+157,C.2,matrix_child,Pasto,155.0,5,0,2.0
+158,C.3,matrix_child,Mesas,155.0,5,0,3.0
+159,C.4,matrix_child,Sillas,155.0,5,0,4.0
+160,C.5,matrix_child,Canecas para su recolección,155.0,5,0,5.0
+162,D.1,matrix_child,Piso,161.0,5,0,1.0
+163,D.2,matrix_child,Pasto,161.0,5,0,2.0
+164,D.3,matrix_child,Mesas,161.0,5,0,3.0
+165,D.4,matrix_child,Sillas,161.0,5,0,4.0
+166,D.5,matrix_child,Canecas para su recoleccion,161.0,5,0,5.0
+167,E,unique_response,Hay elementos recolectores para el depósito de colillas  ¿cuántos?,,5,1,5.0
+170,F.1,matrix_child,Cafetería,169.0,5,0,1.0
+171,F.2,matrix_child,Pasillo,169.0,5,0,2.0
+172,F.3,matrix_child,Mesas de reunión,169.0,5,0,3.0
+173,F.4,matrix_child,Zona verde,169.0,5,0,4.0
+175,G.1,matrix_child,Buen estado,174.0,5,0,1.0
+176,G.2,matrix_child,Estado deteriorado,174.0,5,0,2.0
+177,H,unique_response,¿De qué tamaño son los avisos que advierten que fumar está prohibido?,,5,0,8.0
+178,I,unique_response,¿Cuántos avisos hay que advierten que fumar está prohibido en los espacios abiertos?,,5,1,9.0
+180,A.1,matrix_child,Cafetería,179.0,6,1,1.0
+181,A.2,matrix_child,Zona verde,179.0,6,1,2.0
+182,A.3,matrix_child,Pasillo,179.0,6,1,3.0
+183,A.4,matrix_child,Baños,179.0,6,1,4.0
+184,A.5,matrix_child,Mesas de reunión,179.0,6,1,5.0
+185,B,unique_response,¿A qué distancia el observador percibe el humo en espacios cerrados?,,6,0,2.0
+186,C,unique_response,¿Cuantos avisos hay que advierten que fumar no está permitido en los espacios cerrados?,,6,1,3.0
+188,D.1,matrix_child,Buen estado,187.0,6,0,1.0
+189,D.2,matrix_child,Estado deteriorado,187.0,6,0,2.0
+190,E,unique_response,¿De qué tamaño son los avisos que  advierten que fumar no está permitido?,,6,0,1.0
+192,F.1,matrix_child,Cafetería,191.0,6,1,1.0
+193,F.2,matrix_child,Pasillo,191.0,6,1,2.0
+194,F.3,matrix_child,Mesas de reunión,191.0,6,1,3.0
+195,F.4,matrix_child,Zona verde,191.0,6,1,4.0

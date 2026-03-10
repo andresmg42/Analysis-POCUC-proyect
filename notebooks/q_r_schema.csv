@@ -1,0 +1,15 @@
+TABLE_NAME,COLUMN_NAME,DATA_TYPE,CHARACTER_MAXIMUM_LENGTH,IS_NULLABLE,COLUMN_DEFAULT,COLUMN_KEY,EXTRA
+question_question,id,bigint,,NO,,PRI,auto_increment
+question_question,code,varchar,20.0,NO,,,
+question_question,question_type,varchar,20.0,NO,,,
+question_question,description,longtext,4294967295.0,NO,,,
+question_question,parent_question_id,bigint,,YES,,MUL,
+question_question,subcategory_id,bigint,,NO,,MUL,
+question_question,is_required,tinyint,,NO,,,
+question_question,position,double,,NO,,,
+response_response,id,bigint,,NO,,PRI,auto_increment
+response_response,numeric_value,int,,YES,,,
+response_response,text_value,varchar,30.0,YES,,,
+response_response,option_id,bigint,,YES,,MUL,
+response_response,question_id,bigint,,NO,,MUL,
+response_response,visita_id,bigint,,NO,,MUL,
