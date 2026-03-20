@@ -1,0 +1,6 @@
+,id,name,number,zone_type,campus_id
+0,3,"Plazoleta de ingenierías, pasillos de la Escuela de Ingeniería de sistemas y computación y pasillo frontal del auditorio numero 5",1,MX,1
+1,4,Facultad de Ciencias naturales y exactas,2,MX,1
+2,5,"Cafetería de la Escuela de Ciencias del Lenguaje, los pasillos de la Biblioteca central y la Plazoleta",3,MX,1
+3,6,"Central, pasillos de central y banderas",4,MX,1
+4,7,"Pasillos del coliseo, canchas cercanas al coliseo ( número xx) y coliseo.",5,MX,1
